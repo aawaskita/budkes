@@ -1,0 +1,14 @@
+\contentsline {chapter}{\uppercase {Pengantar}}{i}{section*.2}
+\contentsline {chapter}{Daftar Isi}{ii}{section*.2}
+\contentsline {chapter}{Daftar Gambar}{iii}{section*.2}
+\contentsline {chapter}{\numberline {1}\uppercase {Pendahuluan}}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Masuk ke sistem}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Memperbarui sandi}{2}{section.1.2}
+\contentsline {chapter}{\numberline {2}\uppercase {Memulai penilaian diri}}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Membuat penilaian diri}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}Membuat penilaian diri dari awal}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}Membuat penilaian diri dari \textit {template}}{11}{section.2.3}
+\contentsline {section}{\numberline {2.4}Mengelola responden}{13}{section.2.4}
+\contentsline {section}{\numberline {2.5}Mengirimkan undangan}{19}{section.2.5}
+\contentsline {chapter}{\numberline {3}\uppercase {Mengunduh respon penilaian diri}}{22}{chapter.3}
+\contentsline {chapter}{\numberline {4}\uppercase {Aktifitas penilaian diri bagi responden}}{25}{chapter.4}

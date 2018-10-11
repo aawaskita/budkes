@@ -1,0 +1,16 @@
+%-----------------------------------------------------------------------------%
+\chapter*{\kataPengantar}
+%-----------------------------------------------------------------------------%
+Dokumen ini merupakan petunjuk dalam mengelola penilaian diri budaya keselamatan di BATAN dan diperuntukkan bagi pengelola di masing-masing satker dan unit kerja. Penilaian diri secara online ini didukung oleh aplikasi LimeSurvey\footnote{\url{http://limesurvey.org/}} untuk rilis 3.13.2.
+
+Dalam dokumen ini berisi petunjuk untuk membuat penilaian diri, mengundang responden hingga mengunduh responnya. Respon dari responden selanjutnya diolah menggunakan \textit{tool} terpisah, salah satunya dengan menggunakan aplikasi \textit{spreadsheet}.
+
+Jika masih ada materi yang belum jelas, silakan untuk menghubungi \saya~melalui surat elektronik di alamat \href{mailto:adhyaksa@batan.go.id}{adhyaksa@batan.go.id}. Terima kasih.
+
+\vspace*{0.1cm}
+\begin{flushright}
+Tangerang Selatan, \bulanTahun \\[0.1cm]
+\vspace*{1cm}
+\penulis
+
+\end{flushright}

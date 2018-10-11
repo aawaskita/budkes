@@ -1,0 +1,11 @@
+# Fdb version 3
+["pdflatex"] 1539049277 "pengantar.tex" "pengantar.pdf" "pengantar" 1539049277
+  "/etc/texmf/web2c/texmf.cnf" 1528457460 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1528457588 4133133 bcb5c83a7aaf867b1940ffe9b6b312a5 ""
+  "pengantar.aux" 1539049244 768 c59e275d350a4adbbf510482be529e87 ""
+  "pengantar.tex" 1539049277 882 e6e552eef1139495cb88f1fa5840b9ca ""
+  (generated)
+  "pengantar.pdf"
+  "pengantar.log"
